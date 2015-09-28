@@ -1,2 +1,24 @@
-sdasasdasd
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+index2.php <-- modificado 
 asdasasd
